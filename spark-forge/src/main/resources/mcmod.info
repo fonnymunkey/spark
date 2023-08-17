@@ -1,5 +1,5 @@
 [{
-  "modid": "spark",
+  "modid": "spark-unforged",
   "name": "Spark Unforged",
   "description": "${pluginDescription}",
   "version": "${pluginVersion}",

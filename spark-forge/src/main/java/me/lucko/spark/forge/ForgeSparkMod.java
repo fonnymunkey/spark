@@ -40,7 +40,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 @Mod(
-        modid = "spark",
+        modid = "spark-unforged",
         name = "Spark Unforged",
         version = "@version@",
         acceptableRemoteVersions = "*"
